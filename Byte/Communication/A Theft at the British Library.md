@@ -1,0 +1,7 @@
+Late last year, the British Library was [subject to a ransomware attack](https://www.bl.uk/cyber-incident/) and that hackers had stolen user data and published it on the dark web, which caused what sounds like a lot of pain and months of missed fish and chips to extract the hackers' connections and restore services across their network. Being an amazing library, BL has been transparent and open about the incident, keeping everyone up to date on the progress. 
+
+"To ensure a common level of understanding of key factors that may help peer institutions and other organisations learn lessons from the Library’s experience", BL wrote [an 18 page paper](https://www.bl.uk/home/british-library-cyber-incident-review-8-march-2024.pdf) that includes, from page 14: "our reliance on legacy infrastructure is the primary contributor to the length of time that the Library will require to recover from the attack. These legacy systems will in many cases need to be migrated to new versions, substantially modified, or even rebuilt from the ground up, either because they are unsupported and therefore cannot be repurchased or restored, or because they simply will not operate on modern servers or with modern security controls."
+
+When we at Byte consult with libraries, it's this level of openness and transparency that is inspiration for much of how we work.
+
+Published 3/11/24 https://bytestudios.com/blog/post/a-theft-at-the-british-library

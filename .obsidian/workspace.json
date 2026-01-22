@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "4140e44696917e5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ae7e5dba1a94154",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a693bd04e979ae16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Byte/Communication/A Theft at the British Library.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Theft at the British Library"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e079c0b8422fa6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "56f4fea466f7b1a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65efabc7b5af92de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8073e2473f4eb894",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ec0157d6821207e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "77ff97d44186a770",
+    "type": "split",
+    "children": [
+      {
+        "id": "a76dd95926d3db7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1758b597224644cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Byte/Communication/A Theft at the British Library.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for A Theft at the British Library"
+            }
+          },
+          {
+            "id": "0f34df519da10d67",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e32689d636a99a77",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f738e6b8259ffc3b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a693bd04e979ae16",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Pasted image 20240112160701.png",
+    "Things I'd like to solve.md",
+    "Pasted image 20240125151851.png",
+    "Pasted image 20240112164653.png",
+    "Pasted image 20240112164510.png",
+    "Pasted image 20240112160716.png",
+    "Byte/Transperancy/Public Transparency Overview.md",
+    "Byte/Talks/CSV Conf talk.md",
+    "Byte/Communication/A Theft at the British Library.md",
+    "Collata/Transparency/Transparency Outline.md",
+    "Eponymous Laws.md",
+    "Collata/Transparency/Origins/Roadmap.md",
+    "Byte/Communication",
+    "Byte/Talks",
+    "Byte/Transperancy",
+    "Byte",
+    "Collata/Transparency/Technology/Used Software.md",
+    "Collata",
+    "Collata/Transparency/Origins/Timeline And Hours Spent.md",
+    "Collata/Transparency/Technology/External Software.md",
+    "Collata/Transparency/Technology/Why PHP.md",
+    "Collata/Transparency/Origins/Feature Requests.md",
+    "Untitled 1.canvas",
+    "2023-12-20.md",
+    "Transparency/Transparency Outline (conflict 2023-12-20-11-46-22).md",
+    "Untitled 2.canvas"
+  ]
+}
